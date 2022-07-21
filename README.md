@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Tohntobshi
 - 👀 I’m interested in programming, electronics, 3d modeling/printing, DIY, mountainbiking and many other stuff
-- 🌱 I’m currently learning Android development and IoT (by trying to make drone out of raspberry pi with client app for android)
+- 🌱 I’m currently learning computer vision
 - 📫 How to reach me: email antondaaa@gmail.com instagram https://www.instagram.com/tohntobshi/
