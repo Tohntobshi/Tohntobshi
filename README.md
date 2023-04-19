@@ -3,6 +3,4 @@
 - 🌱 I’m currently learning computer vision
 - 📫 How to reach me:
 - Email antondaaa@gmail.com
-- Linkedin: https://www.linkedin.com/in/tohntobshi/
-- YouTube: https://www.youtube.com/AntonDam1
 - My other code: https://bitbucket.org/tohntobshi/
