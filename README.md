@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Tohntobshi
-- 👀 I’m interested in programming, electronics, 3d modeling/printing, DIY, mountainbiking and many other stuff
-- 🌱 I’m currently learning computer vision
 - 📫 How to reach me:
 - Email antondaaa@gmail.com
 - My other code: https://bitbucket.org/tohntobshi/
